@@ -1,1 +1,3 @@
-Fraud Detection
+Fraud Detection Model.
+
+Credit card. Python
