@@ -6,5 +6,5 @@ documentation structure
 
 1.0 python project
 
-Datasets kaggle.com
+Datasets https://kaggle.com
 
